@@ -1,4 +1,10 @@
 [
+  
+    {
+    “id”: 7,
+    "text": "<div class=‘details’>You can now claim <b>$2500 in Trading Bonus</b> by making a deposit in <b>BTC, ETH & USDT!</b> </br>This trading bonus can be used for: </br>- Trading any Futures, Perpetuals & Options contracts. </br>- Subscribing to Robo Trading strategies to earn yield. </br>- Buying Bitcoin or Ethereum on Spot. </br>&#127873; &nbsp <a target='_blank' href=${`https://www.delta.exchange/offers/?utm_source=delta_website_alert&utm_campaign=2500mc_bell_alert`}>Claim Offer Now!</a><span class=‘notif-time’>14th July, 12:00 PM UTC</span></div>"
+  },
+
   {
     "id": 6,
     "text": "<div class='details'> This is new title <br/><br/> this is the description <a href='https://www.delta.exchange/app/account/profile'>Hyperlink</a>. follow up text <br/> &#127873; <span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
